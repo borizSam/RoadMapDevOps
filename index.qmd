@@ -5,6 +5,10 @@ title: "Road-Map DevOps"
 
 ![Goiko-DevOps](https://raw.githubusercontent.com/milanm/DevOps-Roadmap/refs/heads/master/DevOpsBurger.jpg)
 
+# Roadmap-2024 GUiA
+
+![Camino Ninja](https://raw.githubusercontent.com/milanm/DevOps-Roadmap/refs/heads/master/DevOps%20Roadmap.png)
+
 # Plan de Aprendizaje: DevOps y Java
 
 ## **Meses 1-2: Fundamentos Esenciales**
