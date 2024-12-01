@@ -1,0 +1,65 @@
+---
+title: "Road-Map DevOps"
+---
+# Hamburguesa DevOps
+
+![Goiko-DevOps](https://raw.githubusercontent.com/milanm/DevOps-Roadmap/refs/heads/master/DevOpsBurger.jpg)
+
+# Plan de Aprendizaje: DevOps y Java
+
+## **Meses 1-2: Fundamentos Esenciales**
+
+**Objetivo:** Familiarizarte con sistemas operativos, redes y herramientas básicas mientras refuerzas tus habilidades en Java.
+
+### **Aprendizajes Clave:**
+
+- **Linux:**
+  - Comandos básicos.
+  - Estructura de directorios.
+  - Permisos.
+  - Bash scripting simple.
+- **Redes:**
+  - Conceptos básicos: TCP/IP, HTTP/HTTPS, DNS.
+- **Git:**
+  - Uso básico (commit, branch, merge, pull requests).
+
+### **Práctica:**
+- Configura un servidor Linux en tu máquina (VM o Docker).
+- Crea scripts básicos para tareas repetitivas (automatización de backups).
+- Publica un proyecto Java sencillo en GitHub usando Git.
+
+---
+
+## **Meses 3-4: Contenedores y Automatización**
+**Objetivo:** Introducción a la contenedorización y pipelines básicos.
+
+### **Aprendizajes Clave:**
+- **Docker:**
+  - Crear contenedores.
+  - Escribir Dockerfiles para tu aplicación Java.
+- **CI/CD:**
+  - Conceptos básicos (automatización de pruebas y despliegue).
+  - Usa GitHub Actions o Jenkins para crear tu primer pipeline.
+
+### **Práctica:**
+- Empaqueta una app Java como imagen de Docker.
+- Configura un pipeline CI/CD que compile tu app Java, ejecute pruebas y cree una imagen de Docker automáticamente.
+
+---
+
+## **Meses 5-6: Orquestación, Monitorización y Proyecto Final**
+**Objetivo:** Consolidar conocimientos con un proyecto práctico.
+
+### **Aprendizajes Clave:**
+- **Kubernetes:**
+  - Conceptos básicos: Pods, Deployments, Services.
+  - Usa Minikube o Kind para practicar localmente.
+- **Monitorización:**
+  - Introducción a Prometheus y Grafana.
+- **Seguridad Básica:**
+  - Gestión de secretos en pipelines y despliegues.
+
+### **Práctica:**
+- Despliega tu app Java en Kubernetes con un entorno básico.
+- Configura monitorización con Prometheus y Grafana para tu app.
+- Publica todo en GitHub con documentación detallada.

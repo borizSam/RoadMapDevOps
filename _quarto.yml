@@ -1,0 +1,32 @@
+project:
+  type: website
+
+title: "RoadMap"
+author: "Boris Ivan Huarachi Perez" 
+theme: [journals] 
+
+website:
+  title: "RoadMap"
+  navbar:
+    left:
+      
+      - text: Devops
+        menu:
+          - text: Devops          
+            href: index.qmd
+          - about.qmd
+      
+      - text: Devops-Avanzado
+        menu:
+          - text: DevOps Architect
+            href: arqui.qmd  
+nav:
+  - Home: index.qmd
+  - About: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
