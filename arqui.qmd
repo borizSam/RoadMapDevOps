@@ -24,7 +24,6 @@ Dominar los conceptos y herramientas básicas de DevOps.
 ### Recursos Recomendados
 - Cursos en Udemy o YouTube sobre Docker, CI/CD y Terraform.
 - Prácticas en proyectos pequeños.
-
 ---
 
 ## 2. Profundización en Herramientas DevOps
