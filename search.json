@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Road-Map DevOps",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Goiko-DevOps"
-  },
-  {
-    "objectID": "index.html#meses-1-2-fundamentos-esenciales",
-    "href": "index.html#meses-1-2-fundamentos-esenciales",
-    "title": "Road-Map DevOps",
-    "section": "Meses 1-2: Fundamentos Esenciales",
-    "text": "Meses 1-2: Fundamentos Esenciales\nObjetivo: Familiarizarte con sistemas operativos, redes y herramientas básicas mientras refuerzas tus habilidades en Java.\n\nAprendizajes Clave:\n\nLinux:\n\nComandos básicos.\nEstructura de directorios.\nPermisos.\nBash scripting simple.\n\nRedes:\n\nConceptos básicos: TCP/IP, HTTP/HTTPS, DNS.\n\nGit:\n\nUso básico (commit, branch, merge, pull requests).\n\n\n\n\nPráctica:\n\nConfigura un servidor Linux en tu máquina (VM o Docker).\nCrea scripts básicos para tareas repetitivas (automatización de backups).\nPublica un proyecto Java sencillo en GitHub usando Git."
-  },
-  {
-    "objectID": "index.html#meses-3-4-contenedores-y-automatización",
-    "href": "index.html#meses-3-4-contenedores-y-automatización",
-    "title": "Road-Map DevOps",
-    "section": "Meses 3-4: Contenedores y Automatización",
-    "text": "Meses 3-4: Contenedores y Automatización\nObjetivo: Introducción a la contenedorización y pipelines básicos.\n\nAprendizajes Clave:\n\nDocker:\n\nCrear contenedores.\nEscribir Dockerfiles para tu aplicación Java.\n\nCI/CD:\n\nConceptos básicos (automatización de pruebas y despliegue).\nUsa GitHub Actions o Jenkins para crear tu primer pipeline.\n\n\n\n\nPráctica:\n\nEmpaqueta una app Java como imagen de Docker.\nConfigura un pipeline CI/CD que compile tu app Java, ejecute pruebas y cree una imagen de Docker automáticamente."
-  },
-  {
-    "objectID": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
-    "href": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
-    "title": "Road-Map DevOps",
-    "section": "Meses 5-6: Orquestación, Monitorización y Proyecto Final",
-    "text": "Meses 5-6: Orquestación, Monitorización y Proyecto Final\nObjetivo: Consolidar conocimientos con un proyecto práctico.\n\nAprendizajes Clave:\n\nKubernetes:\n\nConceptos básicos: Pods, Deployments, Services.\nUsa Minikube o Kind para practicar localmente.\n\nMonitorización:\n\nIntroducción a Prometheus y Grafana.\n\nSeguridad Básica:\n\nGestión de secretos en pipelines y despliegues.\n\n\n\n\nPráctica:\n\nDespliega tu app Java en Kubernetes con un entorno básico.\nConfigura monitorización con Prometheus y Grafana para tu app.\nPublica todo en GitHub con documentación detallada."
+    "text": "Información Personal\nNombre: Boris Iván\nCorreo Electrónico: dadapunk456@gmail.com ✉️\nUbicación: Barcelona, España 📍\n\n\n\nConéctame\nEstoy siempre abierto a nuevas conexiones y colaboraciones. Puedes encontrarme en mis redes sociales:\n\nLinkedIn 👔 - Para establecer contactos profesionales y compartir experiencias.\nGitHub 🐦 - Explora mis proyectos y contribuciones en código.\n\n\n\n\nTexto alternativo"
   },
   {
     "objectID": "arqui.html",
@@ -77,10 +56,31 @@
     "text": "Fundamentos de DevOps: 3-4 meses.\nHerramientas Avanzadas de DevOps: 4-6 meses.\nDiseño de Arquitecturas DevOps: 4-6 meses.\nEspecialización como DevOps Architect: 6-8 meses.\nProyectos y Portafolio: 2-3 meses."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Road-Map DevOps",
     "section": "",
-    "text": "Información Personal\nNombre: Boris Iván\nCorreo Electrónico: dadapunk456@gmail.com ✉️\nUbicación: Barcelona, España 📍\n\n\n\nConéctame\nEstoy siempre abierto a nuevas conexiones y colaboraciones. Puedes encontrarme en mis redes sociales:\n\nLinkedIn 👔 - Para establecer contactos profesionales y compartir experiencias.\nGitHub 🐦 - Explora mis proyectos y contribuciones en código.\n\n\n\n\nTexto alternativo"
+    "text": "Goiko-DevOps"
+  },
+  {
+    "objectID": "index.html#meses-1-2-fundamentos-esenciales",
+    "href": "index.html#meses-1-2-fundamentos-esenciales",
+    "title": "Road-Map DevOps",
+    "section": "Meses 1-2: Fundamentos Esenciales",
+    "text": "Meses 1-2: Fundamentos Esenciales\nObjetivo: Familiarizarte con sistemas operativos, redes y herramientas básicas mientras refuerzas tus habilidades en Java.\n\nAprendizajes Clave:\n\nLinux:\n\nComandos básicos.\nEstructura de directorios.\nPermisos.\nBash scripting simple.\n\nRedes:\n\nConceptos básicos: TCP/IP, HTTP/HTTPS, DNS.\n\nGit:\n\nUso básico (commit, branch, merge, pull requests).\n\n\n\n\nPráctica:\n\nConfigura un servidor Linux en tu máquina (VM o Docker).\nCrea scripts básicos para tareas repetitivas (automatización de backups).\nPublica un proyecto Java sencillo en GitHub usando Git."
+  },
+  {
+    "objectID": "index.html#meses-3-4-contenedores-y-automatización",
+    "href": "index.html#meses-3-4-contenedores-y-automatización",
+    "title": "Road-Map DevOps",
+    "section": "Meses 3-4: Contenedores y Automatización",
+    "text": "Meses 3-4: Contenedores y Automatización\nObjetivo: Introducción a la contenedorización y pipelines básicos.\n\nAprendizajes Clave:\n\nDocker:\n\nCrear contenedores.\nEscribir Dockerfiles para tu aplicación Java.\n\nCI/CD:\n\nConceptos básicos (automatización de pruebas y despliegue).\nUsa GitHub Actions o Jenkins para crear tu primer pipeline.\n\n\n\n\nPráctica:\n\nEmpaqueta una app Java como imagen de Docker.\nConfigura un pipeline CI/CD que compile tu app Java, ejecute pruebas y cree una imagen de Docker automáticamente."
+  },
+  {
+    "objectID": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
+    "href": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
+    "title": "Road-Map DevOps",
+    "section": "Meses 5-6: Orquestación, Monitorización y Proyecto Final",
+    "text": "Meses 5-6: Orquestación, Monitorización y Proyecto Final\nObjetivo: Consolidar conocimientos con un proyecto práctico.\n\nAprendizajes Clave:\n\nKubernetes:\n\nConceptos básicos: Pods, Deployments, Services.\nUsa Minikube o Kind para practicar localmente.\n\nMonitorización:\n\nIntroducción a Prometheus y Grafana.\n\nSeguridad Básica:\n\nGestión de secretos en pipelines y despliegues.\n\n\n\n\nPráctica:\n\nDespliega tu app Java en Kubernetes con un entorno básico.\nConfigura monitorización con Prometheus y Grafana para tu app.\nPublica todo en GitHub con documentación detallada."
   }
 ]
