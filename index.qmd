@@ -62,4 +62,5 @@ title: "Road-Map DevOps"
 ### **Práctica:**
 - Despliega tu app Java en Kubernetes con un entorno básico.
 - Configura monitorización con Prometheus y Grafana para tu app.
+
 - Publica todo en GitHub con documentación detallada.
