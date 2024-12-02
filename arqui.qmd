@@ -4,7 +4,7 @@ title: "Road-Map DevOps Avanzado"
 
 # Roadmap: De DevOps a DevOps Architect
 
-![Camino-Ninja](https://github.com/milanm/DevOps-Roadmap/blob/master/DevOps%20Roadmap.png)
+![Camino-Ninja](https://github.com/milanm/DevOps-Roadmap/blob/master/DevOps%20Roadmap.png?raw=true)
 
 ## 1. Fundamentos de DevOps
 ### Objetivo
