@@ -25,7 +25,7 @@
     "href": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
     "title": "Road-Map DevOps",
     "section": "Meses 5-6: Orquestación, Monitorización y Proyecto Final",
-    "text": "Meses 5-6: Orquestación, Monitorización y Proyecto Final\nObjetivo: Consolidar conocimientos con un proyecto práctico.\n\nAprendizajes Clave:\n\nKubernetes:\n\nConceptos básicos: Pods, Deployments, Services.\nUsar Minikube o Kind para practicar localmente.\n\nMonitorización:\n\nIntroducción a Prometheus y Grafana.\n\nSeguridad Básica:\n\nGestión de secrets en pipelines y despliegues.\n\n\n\n\nPráctica:\n\nDespliegar una app Java en Kubernetes con un entorno básico.\nConfigurar monitorización con Prometheus y Grafana para tu app.\nPublicar todo en GitHub con documentación detallada. (Markdown-Ghpages)\n\n\n\nEntendender y dominar los conceptos"
+    "text": "Meses 5-6: Orquestación, Monitorización y Proyecto Final\nObjetivo: Consolidar conocimientos con un proyecto práctico.\n\nAprendizajes Clave:\n\nKubernetes:\n\nConceptos básicos: Pods, Deployments, Services.\nUsar Minikube o Kind para practicar localmente.\n\nMonitorización:\n\nIntroducción a Prometheus y Grafana.\n\nSeguridad Básica:\n\nGestión de secrets en pipelines y despliegues.\n\n\n\n\nPráctica:\n\nDespliegar una app Java en Kubernetes con un entorno básico.\nConfigurar monitorización con Prometheus y Grafana para tu app.\nPublicar todo en GitHub con documentación detallada. (Markdown-Ghpages)\n\n\n\nRealizar laboratorios con AWS –&gt; Explorar AWS\n\nECR\nECS\n\n\n\nEntendender y dominar los conceptos"
   },
   {
     "objectID": "arqui.html",
