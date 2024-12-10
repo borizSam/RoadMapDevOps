@@ -11,21 +11,21 @@
     "href": "index.html#meses-1-2-fundamentos-esenciales",
     "title": "Road-Map DevOps",
     "section": "Meses 1-2: Fundamentos Esenciales",
-    "text": "Meses 1-2: Fundamentos Esenciales\nObjetivo: Familiarizarte con sistemas operativos, redes y herramientas básicas mientras refuerzas tus habilidades en Java.\n\nAprendizajes Clave:\n\nLinux:\n\nComandos básicos.\nEstructura de directorios.\nPermisos.\nBash scripting simple.\n\nRedes:\n\nConceptos básicos: TCP/IP, HTTP/HTTPS, DNS.\n\nGit:\n\nUso básico (commit, branch, merge, pull requests).\n\n\n\n\nPráctica:\n\nConfigura un servidor Linux en tu máquina (VM o Docker).\nCrea scripts básicos para tareas repetitivas (automatización de backups).\nPublica un proyecto Java sencillo en GitHub usando Git."
+    "text": "Meses 1-2: Fundamentos Esenciales\nObjetivo: Familiarizarme con sistemas operativos, redes y herramientas básicas mientras voy reforzando mis habilidades en Java.\n\nAprendizajes Clave:\n\nLinux:\n\nComandos básicos.\nEstructura de directorios.\nPermisos.\nBash scripting simple.\n\nRedes:\n\nConceptos básicos: TCP/IP, HTTP/HTTPS, DNS.\n\nGit:\n\nUso básico (commit, branch, merge, pull requests).\n\n\n\n\nPráctica:\n\nConfigurar un servidores Linux en tu máquina (VM o Docker).\nCrear scripts básicos para tareas repetitivas (automatización de backups).\nPublicar proyectos Java sencillos en GitHub usando Git."
   },
   {
     "objectID": "index.html#meses-3-4-contenedores-y-automatización",
     "href": "index.html#meses-3-4-contenedores-y-automatización",
     "title": "Road-Map DevOps",
     "section": "Meses 3-4: Contenedores y Automatización",
-    "text": "Meses 3-4: Contenedores y Automatización\nObjetivo: Introducción a la contenedorización y pipelines básicos.\n\nAprendizajes Clave:\n\nDocker:\n\nCrear contenedores.\nEscribir Dockerfiles para tu aplicación Java.\n\nCI/CD:\n\nConceptos básicos (automatización de pruebas y despliegue).\nUsa GitHub Actions o Jenkins para crear tu primer pipeline.\n\n\n\n\nPráctica:\n\nEmpaqueta una app Java como imagen de Docker.\nConfigura un pipeline CI/CD que compile tu app Java, ejecute pruebas y cree una imagen de Docker automáticamente."
+    "text": "Meses 3-4: Contenedores y Automatización\nObjetivo: Introducción a la contenedorización y pipelines básicos.\n\nAprendizajes Clave:\n\nDocker:\n\nCrear contenedores.\nEscribir Dockerfiles para tu aplicación Java.\n\nCI/CD:\n\nConceptos básicos (automatización de pruebas y despliegue).\nUsa GitHub Actions o Jenkins para crear tu primer pipeline.\n\n\n\n\nPráctica:\n\nEmpaquetar una app Java como imagen de Docker.\nConfigurar un pipeline CI/CD que compile mi app de Java (Springboots?), ejecutar pruebas y crear una imagenes de Docker automáticamente."
   },
   {
     "objectID": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
     "href": "index.html#meses-5-6-orquestación-monitorización-y-proyecto-final",
     "title": "Road-Map DevOps",
     "section": "Meses 5-6: Orquestación, Monitorización y Proyecto Final",
-    "text": "Meses 5-6: Orquestación, Monitorización y Proyecto Final\nObjetivo: Consolidar conocimientos con un proyecto práctico.\n\nAprendizajes Clave:\n\nKubernetes:\n\nConceptos básicos: Pods, Deployments, Services.\nUsa Minikube o Kind para practicar localmente.\n\nMonitorización:\n\nIntroducción a Prometheus y Grafana.\n\nSeguridad Básica:\n\nGestión de secretos en pipelines y despliegues.\n\n\n\n\nPráctica:\n\nDespliega tu app Java en Kubernetes con un entorno básico.\nConfigura monitorización con Prometheus y Grafana para tu app.\nPublica todo en GitHub con documentación detallada."
+    "text": "Meses 5-6: Orquestación, Monitorización y Proyecto Final\nObjetivo: Consolidar conocimientos con un proyecto práctico.\n\nAprendizajes Clave:\n\nKubernetes:\n\nConceptos básicos: Pods, Deployments, Services.\nUsar Minikube o Kind para practicar localmente.\n\nMonitorización:\n\nIntroducción a Prometheus y Grafana.\n\nSeguridad Básica:\n\nGestión de secrets en pipelines y despliegues.\n\n\n\n\nPráctica:\n\nDespliegar una app Java en Kubernetes con un entorno básico.\nConfigurar monitorización con Prometheus y Grafana para tu app.\nPublicar todo en GitHub con documentación detallada. (Markdown-Ghpages)\n\n\n\nEntendender y dominar los conceptos"
   },
   {
     "objectID": "arqui.html",
