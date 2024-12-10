@@ -9,7 +9,7 @@ title: "Road-Map DevOps"
 
 ## **Meses 1-2: Fundamentos Esenciales**
 
-**Objetivo:** Familiarizarte con sistemas operativos, redes y herramientas básicas mientras refuerzas tus habilidades en Java.
+**Objetivo:** Familiarizarme con sistemas operativos, redes y herramientas básicas mientras voy reforzando mis habilidades en Java.
 
 ### **Aprendizajes Clave:**
 
@@ -24,9 +24,9 @@ title: "Road-Map DevOps"
   - Uso básico (commit, branch, merge, pull requests).
 
 ### **Práctica:**
-- Configura un servidor Linux en tu máquina (VM o Docker).
-- Crea scripts básicos para tareas repetitivas (automatización de backups).
-- Publica un proyecto Java sencillo en GitHub usando Git.
+- Configurar un servidores Linux en tu máquina (VM o Docker).
+- Crear scripts básicos para tareas repetitivas (automatización de backups).
+- Publicar proyectos Java sencillos en GitHub usando Git.
 
 ---
 
@@ -42,8 +42,8 @@ title: "Road-Map DevOps"
   - Usa GitHub Actions o Jenkins para crear tu primer pipeline.
 
 ### **Práctica:**
-- Empaqueta una app Java como imagen de Docker.
-- Configura un pipeline CI/CD que compile tu app Java, ejecute pruebas y cree una imagen de Docker automáticamente.
+- Empaquetar una app Java como imagen de Docker.
+- Configurar un pipeline CI/CD que compile mi app de Java (Springboots?), ejecutar pruebas y crear una imagenes de Docker automáticamente.
 
 ---
 
@@ -53,14 +53,17 @@ title: "Road-Map DevOps"
 ### **Aprendizajes Clave:**
 - **Kubernetes:**
   - Conceptos básicos: Pods, Deployments, Services.
-  - Usa Minikube o Kind para practicar localmente.
+  - Usar Minikube o Kind para practicar localmente.
 - **Monitorización:**
   - Introducción a Prometheus y Grafana.
 - **Seguridad Básica:**
-  - Gestión de secretos en pipelines y despliegues.
+  - Gestión de secrets en pipelines y despliegues.
 
 ### **Práctica:**
-- Despliega tu app Java en Kubernetes con un entorno básico.
-- Configura monitorización con Prometheus y Grafana para tu app.
+- Despliegar una app Java en Kubernetes con un entorno básico.
+- Configurar monitorización con Prometheus y Grafana para tu app.
 
-- Publica todo en GitHub con documentación detallada.
+- Publicar todo en GitHub con documentación detallada. (Markdown-Ghpages)
+
+### Entendender y dominar los conceptos 
+
