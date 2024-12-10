@@ -65,5 +65,9 @@ title: "Road-Map DevOps"
 
 - Publicar todo en GitHub con documentación detallada. (Markdown-Ghpages)
 
+### **Realizar laboratorios con AWS --> Explorar AWS**
+- ECR
+- ECS
+
 ### Entendender y dominar los conceptos 
 
