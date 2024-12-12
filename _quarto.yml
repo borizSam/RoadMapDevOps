@@ -2,31 +2,65 @@ project:
   type: website
 
 title: "RoadMap"
-author: "Boris Ivan Huarachi Perez" 
-theme: [journals] 
+author: "Boris Ivan Huarachi Perez"
+theme: [minimal]  # Base minimalista, pero se puede personalizar más adelante
 
 website:
   title: "RoadMap"
   navbar:
     left:
-      
-      - text: Devops
+      - text: "DevOps"
         menu:
-          - text: Devops          
+          - text: "Home"
             href: index.qmd
-          - about.qmd
-      
-      - text: Devops-Avanzado
+          - text: "About"
+            href: about.qmd
+      - text: "Cloud Architect"
         menu:
-          - text: DevOps Architect
-            href: arqui.qmd  
+          - text: "Cloud Architect"
+            href: arqui.qmd
+
+    right:
+      - text: "GitHub"
+        href: "https://github.com/borizSam"
+        icon: "fab fa-github"  # Icono discreto para GitHub
+
 nav:
   - Home: index.qmd
   - About: about.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: minimal  # Mantenemos el tema minimalista como base
+    css: styles.css  # Usamos el archivo CSS personalizado para el estilo DevOps
+    toc: true  # Activamos la tabla de contenido para facilitar la navegación
+    footer: |
+      <div style="text-align: center; font-size: 0.7em; color: #555;">
+        <p>Creado por Boris Ivan Huarachi Perez</p>
+        <p>© 2024 RoadMap</p>
+      </div>  # Pie de página discreto y accesible
 
+# Extra: Scripts para mejorar la funcionalidad y diseño
+extra:
+  - script: "https://kit.fontawesome.com/a076d05399.js"  # Para iconos como el de GitHub
+  - script: "https://cdn.jsdelivr.net/npm/sweetalert2@11"  # Para alertas elegantes si es necesario
+
+# Personalización adicional para SEO y accesibilidad
+metadata:
+  author: "Boris Ivan Huarachi Perez"
+  lang: "es"  # Definir el idioma para mejorar la accesibilidad
+
+# Fuentes personalizadas para mejorar la tipografía
+extra-css:
+  - url: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Montserrat:wght@700&display=swap"
+
+# Accesibilidad mejorada
+accessibility:
+  skip_to_content: true  # Agregar un enlace para saltar al contenido de la página
+  contrast_mode: true  # Habilitar el modo de alto contraste para mejorar la accesibilidad
+
+# Colores personalizados para mejorar la estética DevOps
+colors:
+  primary: "#00aaff"  # Azul brillante para los enlaces y botones
+  secondary: "#333333"  # Gris oscuro para el texto general
+  background: "#f4f4f4"  # Fondo claro para una apariencia moderna
