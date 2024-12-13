@@ -11,7 +11,7 @@ website:
     left:
       - text: "DevOps"
         menu:
-          - text: "Home"
+          - text: "Roadmap"
             href: index.qmd
           - text: "About"
             href: about.qmd
