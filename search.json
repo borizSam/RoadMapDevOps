@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "arqui.html",
+    "href": "arqui.html",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Camino Ninja Cloud Arquitect\n\n\n\n\n\n\nDominar los conceptos y herramientas básicas de DevOps.\n\n\n\n\nCI/CD:\n\nImplementación básica con herramientas como Jenkins, GitHub Actions o GitLab CI.\n\nContenedores:\n\nGestión con Docker.\n\nInfraestructura como Código (IaC):\n\nIntroducción a Terraform y Ansible.\n\nVersion Control:\n\nUso avanzado de Git.\n\n\n\n\n\n\nDuración: 3-4 meses (10-15 horas/semana).\n\n\n\n\n\nCursos en Udemy o YouTube sobre Docker, CI/CD y Terraform.\nPrácticas en proyectos pequeños.\n\n\n\n\n\n\n\n\nAdquirir habilidades avanzadas en automatización, monitoreo y seguridad.\n\n\n\n\nOrquestación de Contenedores:\n\nUso avanzado de Kubernetes (deployment, autoescalado, Helm).\n\nMonitoreo:\n\nImplementación de Prometheus, Grafana, y ELK Stack.\n\nAutomatización:\n\nUso avanzado de Ansible, Terraform, y Pulumi.\n\nSeguridad (DevSecOps):\n\nIntegración de herramientas como Snyk, Aqua Security, y análisis estático de código.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nCertified Kubernetes Administrator (CKA).\nDocker Certified Associate.\n\n\n\n\n\n\n\n\nAprender a diseñar sistemas DevOps robustos, escalables y seguros.\n\n\n\n\nArquitecturas CI/CD:\n\nDiseñar pipelines complejos multi-ambiente.\n\nSistemas Distribuidos:\n\nPatrones como microservicios, event-driven, y serverless.\n\nIntegración con Cloud:\n\nGestionar servicios en AWS, Azure o GCP.\n\nAlta Disponibilidad y Tolerancia a Fallos:\n\nConfiguración de infraestructuras resilientes.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Certified DevOps Engineer – Professional.\nGoogle Cloud DevOps Engineer.\n\n\n\n\n\n\n\n\nConvertirte en un experto capaz de liderar y diseñar estrategias DevOps a gran escala.\n\n\n\n\nGobernanza DevOps:\n\nDiseñar estándares, guías y políticas para equipos.\n\nOptimización de Costos:\n\nOptimizar pipelines y recursos cloud.\n\nEstrategias Multi-Cloud:\n\nDiseñar soluciones portables para AWS, Azure y GCP.\n\nGestión de Equipos y Colaboración:\n\nHabilidades de liderazgo técnico para coordinar múltiples equipos.\n\n\n\n\n\n\nDuración: 6-8 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Solutions Architect – Professional.\nCertified Kubernetes Architect (CKA Advanced Track).\n\n\n\n\n\n\n\n\nDemostrar tus habilidades con casos prácticos y proyectos reales.\n\n\n\n\nPipeline CI/CD Avanzado:\n\nDiseñar e implementar un pipeline CI/CD híbrido con Jenkins y GitHub Actions.\n\nSistema Resiliente en Kubernetes:\n\nImplementar un clúster Kubernetes con alta disponibilidad y monitoreo completo.\n\nPlataforma Multi-Cloud:\n\nCrear una infraestructura portable entre AWS y GCP utilizando Terraform.\n\nDevSecOps:\n\nIntegrar pruebas de seguridad automatizadas en un pipeline CI/CD.\n\n\n\n\n\n\nDuración: 2-3 meses (10-15 horas/semana).\n\n\n\n\n\n\n\nFundamentos de DevOps: 3-4 meses.\nHerramientas Avanzadas de DevOps: 4-6 meses.\nDiseño de Arquitecturas DevOps: 4-6 meses.\nEspecialización como DevOps Architect: 6-8 meses.\nProyectos y Portafolio: 2-3 meses."
+  },
+  {
+    "objectID": "arqui.html#fundamentos-de-devops",
+    "href": "arqui.html#fundamentos-de-devops",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Dominar los conceptos y herramientas básicas de DevOps.\n\n\n\n\nCI/CD:\n\nImplementación básica con herramientas como Jenkins, GitHub Actions o GitLab CI.\n\nContenedores:\n\nGestión con Docker.\n\nInfraestructura como Código (IaC):\n\nIntroducción a Terraform y Ansible.\n\nVersion Control:\n\nUso avanzado de Git.\n\n\n\n\n\n\nDuración: 3-4 meses (10-15 horas/semana).\n\n\n\n\n\nCursos en Udemy o YouTube sobre Docker, CI/CD y Terraform.\nPrácticas en proyectos pequeños."
+  },
+  {
+    "objectID": "arqui.html#profundización-en-herramientas-devops",
+    "href": "arqui.html#profundización-en-herramientas-devops",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Adquirir habilidades avanzadas en automatización, monitoreo y seguridad.\n\n\n\n\nOrquestación de Contenedores:\n\nUso avanzado de Kubernetes (deployment, autoescalado, Helm).\n\nMonitoreo:\n\nImplementación de Prometheus, Grafana, y ELK Stack.\n\nAutomatización:\n\nUso avanzado de Ansible, Terraform, y Pulumi.\n\nSeguridad (DevSecOps):\n\nIntegración de herramientas como Snyk, Aqua Security, y análisis estático de código.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nCertified Kubernetes Administrator (CKA).\nDocker Certified Associate."
+  },
+  {
+    "objectID": "arqui.html#diseño-de-arquitecturas-devops",
+    "href": "arqui.html#diseño-de-arquitecturas-devops",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Aprender a diseñar sistemas DevOps robustos, escalables y seguros.\n\n\n\n\nArquitecturas CI/CD:\n\nDiseñar pipelines complejos multi-ambiente.\n\nSistemas Distribuidos:\n\nPatrones como microservicios, event-driven, y serverless.\n\nIntegración con Cloud:\n\nGestionar servicios en AWS, Azure o GCP.\n\nAlta Disponibilidad y Tolerancia a Fallos:\n\nConfiguración de infraestructuras resilientes.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Certified DevOps Engineer – Professional.\nGoogle Cloud DevOps Engineer."
+  },
+  {
+    "objectID": "arqui.html#especialización-como-devops-architect",
+    "href": "arqui.html#especialización-como-devops-architect",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Convertirte en un experto capaz de liderar y diseñar estrategias DevOps a gran escala.\n\n\n\n\nGobernanza DevOps:\n\nDiseñar estándares, guías y políticas para equipos.\n\nOptimización de Costos:\n\nOptimizar pipelines y recursos cloud.\n\nEstrategias Multi-Cloud:\n\nDiseñar soluciones portables para AWS, Azure y GCP.\n\nGestión de Equipos y Colaboración:\n\nHabilidades de liderazgo técnico para coordinar múltiples equipos.\n\n\n\n\n\n\nDuración: 6-8 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Solutions Architect – Professional.\nCertified Kubernetes Architect (CKA Advanced Track)."
+  },
+  {
+    "objectID": "arqui.html#proyectos-y-portafolio",
+    "href": "arqui.html#proyectos-y-portafolio",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Demostrar tus habilidades con casos prácticos y proyectos reales.\n\n\n\n\nPipeline CI/CD Avanzado:\n\nDiseñar e implementar un pipeline CI/CD híbrido con Jenkins y GitHub Actions.\n\nSistema Resiliente en Kubernetes:\n\nImplementar un clúster Kubernetes con alta disponibilidad y monitoreo completo.\n\nPlataforma Multi-Cloud:\n\nCrear una infraestructura portable entre AWS y GCP utilizando Terraform.\n\nDevSecOps:\n\nIntegrar pruebas de seguridad automatizadas en un pipeline CI/CD.\n\n\n\n\n\n\nDuración: 2-3 meses (10-15 horas/semana)."
+  },
+  {
+    "objectID": "arqui.html#resumen-de-tiempos",
+    "href": "arqui.html#resumen-de-tiempos",
+    "title": "Road-Map Cloud Arquitect",
+    "section": "",
+    "text": "Fundamentos de DevOps: 3-4 meses.\nHerramientas Avanzadas de DevOps: 4-6 meses.\nDiseño de Arquitecturas DevOps: 4-6 meses.\nEspecialización como DevOps Architect: 6-8 meses.\nProyectos y Portafolio: 2-3 meses."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Road-Map para convertirme en DevOps Junior",
@@ -61,55 +110,6 @@
     "title": "Road-Map para convertirme en DevOps Junior",
     "section": "",
     "text": "Objetivo: Prepararme para aplicar a trabajos de DevOps Junior y conocer las tecnologías más demandadas.\n\n\n\nExplorar plataformas como LinkedIn, Infojobs.\nBuscar puestos con palabras clave: DevOps, CI/CD, Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, Linux.\n\n\n\n\n\nTecnologías clave: Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, Prometheus, Grafana, Python, Bash.\nSeguridad en DevOps: Conocimientos básicos de seguridad en CI/CD.\n\n\n\n\n\nActualizar el CV con proyectos y herramientas dominadas.\nMantener LinkedIn actualizado para conectar con profesionales del área.\n\n\n\n\n\nPracticar habilidades técnicas y realizar ejercicios en HackerRank.\n\n\n\n\n\nEstar informado sobre nuevas tecnologías en el área.\n\n\n\n\n\n\n\n\n“El futuro es la automatización. Mi misión: hacerlo posible.” ✨"
-  },
-  {
-    "objectID": "arqui.html",
-    "href": "arqui.html",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Camino Ninja Cloud Arquitect\n\n\n\n\n\n\nDominar los conceptos y herramientas básicas de DevOps.\n\n\n\n\nCI/CD:\n\nImplementación básica con herramientas como Jenkins, GitHub Actions o GitLab CI.\n\nContenedores:\n\nGestión con Docker.\n\nInfraestructura como Código (IaC):\n\nIntroducción a Terraform y Ansible.\n\nVersion Control:\n\nUso avanzado de Git.\n\n\n\n\n\n\nDuración: 3-4 meses (10-15 horas/semana).\n\n\n\n\n\nCursos en Udemy o YouTube sobre Docker, CI/CD y Terraform.\nPrácticas en proyectos pequeños.\n\n\n\n\n\n\n\n\nAdquirir habilidades avanzadas en automatización, monitoreo y seguridad.\n\n\n\n\nOrquestación de Contenedores:\n\nUso avanzado de Kubernetes (deployment, autoescalado, Helm).\n\nMonitoreo:\n\nImplementación de Prometheus, Grafana, y ELK Stack.\n\nAutomatización:\n\nUso avanzado de Ansible, Terraform, y Pulumi.\n\nSeguridad (DevSecOps):\n\nIntegración de herramientas como Snyk, Aqua Security, y análisis estático de código.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nCertified Kubernetes Administrator (CKA).\nDocker Certified Associate.\n\n\n\n\n\n\n\n\nAprender a diseñar sistemas DevOps robustos, escalables y seguros.\n\n\n\n\nArquitecturas CI/CD:\n\nDiseñar pipelines complejos multi-ambiente.\n\nSistemas Distribuidos:\n\nPatrones como microservicios, event-driven, y serverless.\n\nIntegración con Cloud:\n\nGestionar servicios en AWS, Azure o GCP.\n\nAlta Disponibilidad y Tolerancia a Fallos:\n\nConfiguración de infraestructuras resilientes.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Certified DevOps Engineer – Professional.\nGoogle Cloud DevOps Engineer.\n\n\n\n\n\n\n\n\nConvertirte en un experto capaz de liderar y diseñar estrategias DevOps a gran escala.\n\n\n\n\nGobernanza DevOps:\n\nDiseñar estándares, guías y políticas para equipos.\n\nOptimización de Costos:\n\nOptimizar pipelines y recursos cloud.\n\nEstrategias Multi-Cloud:\n\nDiseñar soluciones portables para AWS, Azure y GCP.\n\nGestión de Equipos y Colaboración:\n\nHabilidades de liderazgo técnico para coordinar múltiples equipos.\n\n\n\n\n\n\nDuración: 6-8 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Solutions Architect – Professional.\nCertified Kubernetes Architect (CKA Advanced Track).\n\n\n\n\n\n\n\n\nDemostrar tus habilidades con casos prácticos y proyectos reales.\n\n\n\n\nPipeline CI/CD Avanzado:\n\nDiseñar e implementar un pipeline CI/CD híbrido con Jenkins y GitHub Actions.\n\nSistema Resiliente en Kubernetes:\n\nImplementar un clúster Kubernetes con alta disponibilidad y monitoreo completo.\n\nPlataforma Multi-Cloud:\n\nCrear una infraestructura portable entre AWS y GCP utilizando Terraform.\n\nDevSecOps:\n\nIntegrar pruebas de seguridad automatizadas en un pipeline CI/CD.\n\n\n\n\n\n\nDuración: 2-3 meses (10-15 horas/semana).\n\n\n\n\n\n\n\nFundamentos de DevOps: 3-4 meses.\nHerramientas Avanzadas de DevOps: 4-6 meses.\nDiseño de Arquitecturas DevOps: 4-6 meses.\nEspecialización como DevOps Architect: 6-8 meses.\nProyectos y Portafolio: 2-3 meses."
-  },
-  {
-    "objectID": "arqui.html#fundamentos-de-devops",
-    "href": "arqui.html#fundamentos-de-devops",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Dominar los conceptos y herramientas básicas de DevOps.\n\n\n\n\nCI/CD:\n\nImplementación básica con herramientas como Jenkins, GitHub Actions o GitLab CI.\n\nContenedores:\n\nGestión con Docker.\n\nInfraestructura como Código (IaC):\n\nIntroducción a Terraform y Ansible.\n\nVersion Control:\n\nUso avanzado de Git.\n\n\n\n\n\n\nDuración: 3-4 meses (10-15 horas/semana).\n\n\n\n\n\nCursos en Udemy o YouTube sobre Docker, CI/CD y Terraform.\nPrácticas en proyectos pequeños."
-  },
-  {
-    "objectID": "arqui.html#profundización-en-herramientas-devops",
-    "href": "arqui.html#profundización-en-herramientas-devops",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Adquirir habilidades avanzadas en automatización, monitoreo y seguridad.\n\n\n\n\nOrquestación de Contenedores:\n\nUso avanzado de Kubernetes (deployment, autoescalado, Helm).\n\nMonitoreo:\n\nImplementación de Prometheus, Grafana, y ELK Stack.\n\nAutomatización:\n\nUso avanzado de Ansible, Terraform, y Pulumi.\n\nSeguridad (DevSecOps):\n\nIntegración de herramientas como Snyk, Aqua Security, y análisis estático de código.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nCertified Kubernetes Administrator (CKA).\nDocker Certified Associate."
-  },
-  {
-    "objectID": "arqui.html#diseño-de-arquitecturas-devops",
-    "href": "arqui.html#diseño-de-arquitecturas-devops",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Aprender a diseñar sistemas DevOps robustos, escalables y seguros.\n\n\n\n\nArquitecturas CI/CD:\n\nDiseñar pipelines complejos multi-ambiente.\n\nSistemas Distribuidos:\n\nPatrones como microservicios, event-driven, y serverless.\n\nIntegración con Cloud:\n\nGestionar servicios en AWS, Azure o GCP.\n\nAlta Disponibilidad y Tolerancia a Fallos:\n\nConfiguración de infraestructuras resilientes.\n\n\n\n\n\n\nDuración: 4-6 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Certified DevOps Engineer – Professional.\nGoogle Cloud DevOps Engineer."
-  },
-  {
-    "objectID": "arqui.html#especialización-como-devops-architect",
-    "href": "arqui.html#especialización-como-devops-architect",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Convertirte en un experto capaz de liderar y diseñar estrategias DevOps a gran escala.\n\n\n\n\nGobernanza DevOps:\n\nDiseñar estándares, guías y políticas para equipos.\n\nOptimización de Costos:\n\nOptimizar pipelines y recursos cloud.\n\nEstrategias Multi-Cloud:\n\nDiseñar soluciones portables para AWS, Azure y GCP.\n\nGestión de Equipos y Colaboración:\n\nHabilidades de liderazgo técnico para coordinar múltiples equipos.\n\n\n\n\n\n\nDuración: 6-8 meses (10-15 horas/semana).\n\n\n\n\n\nAWS Solutions Architect – Professional.\nCertified Kubernetes Architect (CKA Advanced Track)."
-  },
-  {
-    "objectID": "arqui.html#proyectos-y-portafolio",
-    "href": "arqui.html#proyectos-y-portafolio",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Demostrar tus habilidades con casos prácticos y proyectos reales.\n\n\n\n\nPipeline CI/CD Avanzado:\n\nDiseñar e implementar un pipeline CI/CD híbrido con Jenkins y GitHub Actions.\n\nSistema Resiliente en Kubernetes:\n\nImplementar un clúster Kubernetes con alta disponibilidad y monitoreo completo.\n\nPlataforma Multi-Cloud:\n\nCrear una infraestructura portable entre AWS y GCP utilizando Terraform.\n\nDevSecOps:\n\nIntegrar pruebas de seguridad automatizadas en un pipeline CI/CD.\n\n\n\n\n\n\nDuración: 2-3 meses (10-15 horas/semana)."
-  },
-  {
-    "objectID": "arqui.html#resumen-de-tiempos",
-    "href": "arqui.html#resumen-de-tiempos",
-    "title": "Road-Map Cloud Arquitect",
-    "section": "",
-    "text": "Fundamentos de DevOps: 3-4 meses.\nHerramientas Avanzadas de DevOps: 4-6 meses.\nDiseño de Arquitecturas DevOps: 4-6 meses.\nEspecialización como DevOps Architect: 6-8 meses.\nProyectos y Portafolio: 2-3 meses."
   },
   {
     "objectID": "about.html",
