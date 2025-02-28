@@ -4,7 +4,7 @@ title: "Road-Map Cloud Arquitect"
 
 # Roadmap: De DevOps a Cloud Arquitect"
 
-![Camino Ninja Cloud Arquitect](https://raw.githubusercontent.com/borizSam/Photos/refs/heads/main/Arqui-cloud.jpeg?token=GHSAT0AAAAAAC26QUDT5JTYMMBRMLOES2SCZ57U2NA)
+![Camino Ninja Cloud Arquitect](https://raw.githubusercontent.com/borizSam/Photos/refs/heads/main/Arqui-cloud.jpeg)
 
 ## 1. Fundamentos de DevOps
 ### Objetivo
