@@ -1,1 +1,1 @@
-Sitemap: https://borizSam.github.io/RoadMapDevOps/sitemap.xml
+Sitemap: https://www.borisdevops.com/sitemap.xml
