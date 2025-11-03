@@ -7,200 +7,193 @@ title: "Road-Map para convertirme en DevOps Junior"
 
 ---
 
-## **Mes 1 (Diciembre 2024): Fundamentos Iniciales**
-**Objetivos:** Aprender lo básico sobre Git, programación y Linux.
+## 🧩 **Mes 1 (Diciembre 2024): Fundamentos Iniciales**  
+🎯 **Objetivo:** Dominar los conceptos básicos de **Git**, **programación** y **Linux**.
 
-### **Git:**
-- Aprender los comandos básicos: `clone`, `branch`, `merge`, `pull requests`.
-- Utilizar plataformas Git como GitHub o GitLab para gestionar proyectos.
-- **Recursos:**
-  - [Pro Git Book](https://git-scm.com/book/es/v2)
-  - [Learn Git by Atlassian](https://www.atlassian.com/git/tutorials)
+### 🔧 Git
+- Aprender comandos esenciales: `clone`, `branch`, `merge`, `pull request`.  
+- Gestionar repositorios en plataformas como **GitHub** o **GitLab**.  
+- **Recursos:**  
+  - 📘 [Pro Git Book](https://git-scm.com/book/es/v2)  
+  - 🧠 [Learn Git by Atlassian](https://www.atlassian.com/git/tutorials)
 
-### **Lenguaje de Programación:**
-- Consolidar el lenguaje de **JAVA**.
-- Estudiar conceptos básicos como la sintaxis, estructuras de control (if/else, loops), funciones, etc.
+### 💻 Lenguaje de Programación
+- Consolidar el lenguaje **Java**.  
+- Practicar sintaxis, estructuras de control (`if/else`, loops), funciones, clases y objetos.  
 
-### **Linux & Scripting:**
-- Familiarizarme con Ubuntu y la línea de comandos (CLI).
-- Aprender Bash o PowerShell para automatizar tareas.
-- **Recursos:**
-  - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
-  - [Ultimate Guide: Getting Started With Ubuntu](https://ubuntu.com/tutorials)
-
----
-
-### **Proyecto del Mes de Diciembre:**
-- Configurar un repositorio Git (en GitHub o GitLab) para una aplicación sencilla escrita en Python. 
-- Desarrollar un script en Bash para automatizar la creación de un entorno en un servidor Ubuntu, 
-incluyendo la configuración de la aplicación, instalación de dependencias, configuración de un servidor web (Nginx o Apache) y despliegue automático con un solo comando. 
-- Utilizar Git para versionar todo el proceso.
+### 🐧 Linux & Scripting
+- Familiarizarse con **Ubuntu** y la **CLI**.  
+- Aprender **Bash** o **PowerShell** para automatizar tareas.  
+- **Recursos:**  
+  - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)  
+  - [Getting Started With Ubuntu](https://ubuntu.com/tutorials)
 
 ---
 
-## **Mes 2 (Enero 2025): Redes, Seguridad y Gestión de Servidores**
-**Objetivos:** Fundamentos de redes, seguridad y administración de servidores.
+### 🧠 **Proyecto del Mes**
+- Configurar un repositorio Git para una app sencilla en **Python**.  
+- Crear un **script en Bash** que:  
+  - Instale dependencias  
+  - Configure un servidor web (**Nginx/Apache**)  
+  - Despliegue la app automáticamente con un solo comando.  
+- Versionar todo el proceso con **Git**.
 
-### **Redes y Seguridad:**
-- Estudiar el Modelo OSI, TCP/IP, DNS, direcciones IP y puertos.
-- Configurar firewalls y aprender seguridad básica en redes.
-- **Recursos:**
-  - [OSI Model Explained](https://www.cloudflare.com/learning/ddos/osi-model/)
-  - [Securing DevOps](https://www.oreilly.com/library/view/securing-devops/9781491963180/)
+---
 
-### **Gestión de Servidores:**
-- Aprender sobre proxies, servidores web como Nginx y Apache.
-- Estudiar conceptos de caching, balanceo de carga y firewall.
-- **Recursos:**
-  - [NGINX Handbook](https://www.nginx.com/resources/)
+## 🌐 **Mes 2 (Enero 2025): Redes, Seguridad y Gestión de Servidores**  
+🎯 **Objetivo:** Comprender redes, seguridad y administración de servidores.
+
+### 🌍 Redes y Seguridad
+- Estudiar **Modelo OSI**, **TCP/IP**, **DNS**, direcciones IP y puertos.  
+- Configurar **firewalls** y políticas de seguridad.  
+- **Recursos:**  
+  - [OSI Model Explained](https://www.cloudflare.com/learning/ddos/osi-model/)  
+  - [Securing DevOps (O’Reilly)](https://www.oreilly.com/library/view/securing-devops/9781491963180/)
+
+### ⚙️ Gestión de Servidores
+- Conocer **Nginx**, **Apache**, **caching** y **balanceo de carga**.  
+- Aprender conceptos de **firewall** y **proxy inverso**.  
+- **Recursos:**  
+  - [NGINX Handbook](https://www.nginx.com/resources/)  
   - [Learn Apache Server](https://www.apache.org/)
 
 ---
 
-### **Proyecto del Mes de Enero:**
-- Implementar un servidor web en Ubuntu, configurar Nginx para alojar la aplicación, y crear un balanceador de carga entre varias instancias en contenedores Docker. 
-- Utilizar firewall y políticas de seguridad para limitar el acceso, además de configurar un sistema de logging (como ELK Stack) para monitorear tráfico y errores.
+### 🧠 **Proyecto del Mes**
+- Implementar un servidor web con **Nginx** en **Ubuntu**.  
+- Configurar un **balanceador de carga** entre instancias Docker.  
+- Añadir un sistema de **logging (ELK Stack)** y políticas de seguridad.
 
 ---
 
-## **Mes 3 (Febrero 2025): Contenedores**
-**Objetivos:** Aprender sobre contenedores y Docker.
+## 🐳 **Mes 3 (Febrero 2025): Contenedores**  
+🎯 **Objetivo:** Aprender los fundamentos de **Docker** y la contenerización.
 
-### **Contenedores:**
-- Empezar con **Docker** para crear imágenes y contenedores.
-- Utilizar **Docker Compose** para orquestar múltiples contenedores.
-- **Recursos:**
-  - [Docker Mastery: with Kubernetes + Swarm](https://www.udemy.com/course/docker-mastery/)
+### 📦 Contenedores
+- Crear y ejecutar **imágenes Docker**.  
+- Orquestar servicios con **Docker Compose**.  
+- Automatizar tareas con **Bash + Docker CLI**.  
+- **Recursos:**  
+  - [Docker Mastery](https://www.udemy.com/course/docker-mastery/)  
   - [Learning Containers from the Bottom Up](https://www.docker.com/resources/)
 
 ---
 
-### **Proyecto del Mes de Febrero:**
-- Desarrollar una aplicación sencilla en Java o Python y empaquetarla en un contenedor Docker. 
-- Configurar Docker Compose para que la aplicación interactúe con una base de datos (MySql,PostgreSQL). 
-- Automatizar todo el proceso usando Bash y Docker CLI.
+### 🧠 **Proyecto del Mes**
+- Empaquetar una aplicación en **Docker**.  
+- Configurar **Docker Compose** para conectar con una base de datos (**MySQL/PostgreSQL**).  
+- Automatizar el proceso con scripts Bash.
 
 ---
 
-## **Mes 4 (Marzo 2025): Orquestación de Contenedores**
-**Objetivos:** Dominar **Kubernetes** para orquestar contenedores.
+## ☸️ **Mes 4 (Marzo 2025): Orquestación de Contenedores**  
+🎯 **Objetivo:** Dominar **Kubernetes** para desplegar y escalar aplicaciones.
 
-### **Orquestación de Contenedores:**
-- Instalar y administrar **Kubernetes**.
-- Aprender sobre clústeres, servicios y despliegue de aplicaciones.
-- **Recursos:**
-  - [Kubernetes Crash Course for Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+### ⚡ Kubernetes
+- Instalar y administrar un **clúster**.  
+- Gestionar **Pods**, **Deployments**, **Services** e **Ingress**.  
+- Configurar **autoescalado (HPA)**.  
+- **Recursos:**  
+  - [Kubernetes Crash Course](https://www.youtube.com/watch?v=s_o8dwzRlu4)  
   - [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator/)
 
 ---
 
-### **Proyecto del Mes de Marzo:**
-- Desplegar la aplicación creada en contenedores Docker dentro de un clúster de Kubernetes. 
-- Configurar un **Deployment** para administrar el ciclo de vida de la aplicación y un **Service** para exponerla. 
-- Configurar un **Ingress** para gestionar el tráfico externo y habilitar un sistema de autoescalado con HPA (Horizontal Pod Autoscaler).
+### 🧠 **Proyecto del Mes**
+- Desplegar la app Dockerizada en un clúster **Kubernetes**.  
+- Implementar un **Deployment**, **Service** e **Ingress**.  
+- Configurar **HPA** para escalado automático.
 
 ---
 
-## **Mes 5 (Abril 2025): Infraestructura como Código (IaC) y CI/CD**
-**Objetivos:** Aprender a automatizar la infraestructura y los pipelines de CI/CD.
+## 🧱 **Mes 5 (Abril 2025): Infraestructura como Código (IaC) y CI/CD**  
+🎯 **Objetivo:** Automatizar infraestructura y pipelines de despliegue.
 
-### **Infraestructura como Código (IaC):**
-- Aprender **Terraform** para provisión de infraestructura.
-- Estudiar la configuración y automatización de servidores.
-- **Recursos:**
-  - [Official Terraform Tutorials](https://learn.hashicorp.com/terraform)
-  - [Automate Terraform documentation](https://learn.hashicorp.com/tutorials/)
+### 🏗️ Infraestructura como Código (IaC)
+- Usar **Terraform** para provisionar infraestructura.  
+- Automatizar servidores y recursos cloud.  
+- **Recursos:**  
+  - [Terraform Tutorials](https://learn.hashicorp.com/terraform)  
+  - [Automate Terraform Docs](https://learn.hashicorp.com/tutorials/)
 
-### **CI/CD:**
-- Configurar pipelines de integración y entrega continua.
-- Utilizar herramientas como **Jenkins**, **GitLab CI/CD** y **GitHub Actions**.
-- **Recursos:**
-  - [Jenkins, From Zero To Hero](https://www.udemy.com/course/jenkins-from-zero-to-hero/)
+### 🔄 CI/CD
+- Crear pipelines de **Integración y Entrega Continua**.  
+- Implementar flujos con **Jenkins**, **GitHub Actions** o **GitLab CI/CD**.  
+- **Recursos:**  
+  - [Jenkins: From Zero To Hero](https://www.udemy.com/course/jenkins-from-zero-to-hero/)  
   - [Learn GitLab CI/CD](https://about.gitlab.com/)
 
 ---
 
-### **Proyecto del Mes de Abril:**
-Desarrollar un pipeline CI/CD que integre los siguientes pasos:
-
-1. Construcción del contenedor Docker con la aplicación.
-2. Ejecución de pruebas automáticas (unitarias).
-3. Despliegue automático en un clúster de Kubernetes.
-4. Configurar Terraform para crear la infraestructura necesaria en la nube (por ejemplo, AWS o Azure) y para aprovisionar los recursos en Kubernetes.
+### 🧠 **Proyecto del Mes**
+1. Construir la imagen Docker.  
+2. Ejecutar pruebas automáticas.  
+3. Desplegar en **Kubernetes** mediante CI/CD.  
+4. Usar **Terraform** para aprovisionar infraestructura en la nube (AWS o Azure).  
 
 ---
 
-## **Mes 6 (Mayo 2025): Monitoreo y Observabilidad**
-**Objetivos:** Configurar y gestionar el monitoreo de aplicaciones y servicios.
+## 📊 **Mes 6 (Mayo 2025): Monitoreo y Observabilidad**  
+🎯 **Objetivo:** Medir, analizar y visualizar el rendimiento del sistema.
 
-### **Monitoreo y Observabilidad:**
-- Aprender **Prometheus** y **Grafana** para monitoreo de sistemas.
-- Configurar alertas y paneles de monitoreo para las aplicaciones.
-- **Recursos:**
-  - [Learn Prometheus](https://prometheus.io/docs/introduction/overview/)
+### 🔍 Monitoreo & Observabilidad
+- Implementar **Prometheus** para métricas.  
+- Visualizar datos con **Grafana**.  
+- Configurar **alertas inteligentes**.  
+- **Recursos:**  
+  - [Learn Prometheus](https://prometheus.io/docs/introduction/overview/)  
   - [Learn Grafana](https://grafana.com/tutorials/)
 
 ---
 
-### **Proyecto del Mes de Mayo:**
-- Configurar un sistema de monitoreo completo utilizando **Prometheus** y **Grafana** para monitorear el clúster de Kubernetes y la aplicación. 
-- Crear paneles personalizados en Grafana para mostrar métricas de los pods de Kubernetes y configurar alertas para eventos críticos.
+### 🧠 **Proyecto del Mes**
+- Configurar monitoreo para **Kubernetes + app**.  
+- Crear dashboards personalizados y alertas en **Grafana**.  
 
 ---
 
-## **Mes 7 (Junio 2025): Cloud y Prácticas de Ingeniería de Software**
-**Objetivos:** Aprender a gestionar la infraestructura en la nube y aplicar buenas prácticas de software.
+## ☁️ **Mes 7 (Junio 2025): Cloud & Buenas Prácticas de Ingeniería**  
+🎯 **Objetivo:** Gestionar infraestructura cloud y aplicar prácticas profesionales.
 
-### **Proveedor de Nube:**
-- Aprender sobre **AWS**, **Azure** o **Google Cloud**.
-- Gestionar recursos, usuarios, redes y seguridad en la nube.
-- **Recursos:**
-  - [Ultimate AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
-  - [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
+### 🌩️ Cloud Providers
+- Aprender **AWS**, **Azure** o **Google Cloud**.  
+- Configurar redes, seguridad e IAM.  
+- **Recursos:**  
+  - [AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner/)  
+  - [Azure Fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
 
-### **Prácticas de Ingeniería de Software:**
-- Estudiar el ciclo de vida del desarrollo de software (SDLC) y **Scrum**.
-- Aprender sobre la automatización de pruebas y buenas prácticas en desarrollo de software.
-- **Recursos:**
-  - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
+### 💡 Ingeniería de Software
+- Comprender el **SDLC** y **Scrum**.  
+- Implementar buenas prácticas y pruebas automatizadas.  
+- **Recursos:**  
+  - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)  
   - [Software Development Life Cycle (SDLC)](https://www.cio.com/article/28666/software-development-life-cycle-sdlc-phases-and-models)
 
 ---
 
-### **Proyecto del Mes de Junio:**
-- Desplegar la infraestructura en la nube (AWS, Azure o Google Cloud) utilizando **Terraform**. 
-- Configurar una aplicación en la nube (contenedores Docker o máquinas virtuales) y un pipeline CI/CD que se ejecute al hacer un push al repositorio. 
-- Integrar monitoreo y alertas dentro de la infraestructura en la nube.
-
-### **Práctica:**
-- Desplegar una app Java en Kubernetes con un entorno básico.
-- Configurar monitorización con Prometheus y Grafana para la app.
-- Publicar todo en GitHub con documentación detallada (Markdown/Ghpages).
+### 🧠 **Proyecto del Mes**
+- Desplegar infraestructura con **Terraform** en la nube.  
+- Integrar monitoreo y CI/CD automatizado.  
+- Documentar todo en **Markdown / GitHub Pages**.
 
 ---
 
-## **Mes 8 (Julio 2025): Búsqueda de Empleo y Análisis del Mercado**
-**Objetivo:** Prepararme para aplicar a trabajos de DevOps Junior y conocer las tecnologías más demandadas.
+## 🎯 **Mes 8 (Julio 2025): Búsqueda de Empleo y Análisis del Mercado**  
+🎯 **Objetivo:** Preparar la transición profesional hacia DevOps Junior.
 
-### **Investigación de ofertas de trabajo:**
-- Explorar plataformas como **LinkedIn**, **Infojobs**.
-- Buscar puestos con palabras clave: DevOps, CI/CD, Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, Linux.
+### 🔎 Investigación de Mercado
+- Buscar ofertas en **LinkedIn**, **Infojobs** con palabras clave:  
+  *DevOps, CI/CD, Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, Linux.*
 
-### **Revisión del mercado:**
-- **Tecnologías clave:** Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, Prometheus, Grafana, Python, Bash.
-- **Seguridad en DevOps:** Conocimientos básicos de seguridad en CI/CD.
+### 💼 Perfil Profesional
+- Actualizar **CV y LinkedIn** con herramientas y proyectos.  
+- Mantener presencia activa y networking en comunidades técnicas.  
 
-### **Preparación de CV y LinkedIn:**
-- Actualizar el CV con proyectos y herramientas dominadas.
-- Mantener LinkedIn actualizado para conectar con profesionales del área.
-
-### **Entrevistas y pruebas técnicas:**
-- Practicar habilidades técnicas y realizar ejercicios en **HackerRank**.
-
-### **Estudio continuo del mercado:**
-- Estar informado sobre nuevas tecnologías en el área.
+### 🧠 Preparación Técnica
+- Practicar pruebas en **HackerRank** y desafíos DevOps.  
+- Seguir tendencias y nuevas tecnologías en el sector.  
 
 ---
-::: callout
-*"El futuro es la automatización. Mi misión: hacerlo posible."* ✨
-:::
+
+> ✨ *“El futuro es la automatización. Mi misión: hacerlo posible.”*  
+> — **Boris Sam**
