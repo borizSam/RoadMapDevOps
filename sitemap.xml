@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.borisdevops.com/arqui.html</loc>
-    <lastmod>2025-06-04T09:07:10.057Z</lastmod>
+    <loc>https://about.html</loc>
+    <lastmod>2025-11-03T09:12:28.920Z</lastmod>
   </url>
   <url>
-    <loc>https://www.borisdevops.com/about.html</loc>
-    <lastmod>2025-06-04T09:07:10.057Z</lastmod>
+    <loc>https://arqui.html</loc>
+    <lastmod>2025-11-03T09:12:28.920Z</lastmod>
   </url>
   <url>
-    <loc>https://www.borisdevops.com/index.html</loc>
-    <lastmod>2025-06-04T09:07:10.057Z</lastmod>
+    <loc>https://index.html</loc>
+    <lastmod>2025-11-03T09:12:28.920Z</lastmod>
   </url>
 </urlset>
